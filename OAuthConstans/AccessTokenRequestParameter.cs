@@ -1,7 +1,7 @@
 ﻿namespace OAuthConstans
 {
     /// <summary>Represents access token request parameter</summary>
-    public static class AccessTokenRequestParameters
+    public static class AccessTokenRequestParameter
     {
         public const string GrantType = "grant_type";
         public const string Code = "code";
