@@ -1,8 +1,6 @@
 ﻿namespace OAuthConstans
 {
-    /// <summary>
-    /// Represents revocation request parameter
-    /// </summary>
+    /// <summary>Represents revocation request parameter</summary>
     public static class RevocationRequestParameter
     {
         public const string Token = "token";

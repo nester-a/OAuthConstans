@@ -1,8 +1,6 @@
 ﻿namespace OAuthConstans
 {
-    /// <summary>
-    /// Represents error code from error response
-    /// </summary>
+    /// <summary>Represents error code from error response</summary>
     public static class ErrorResponseErrorCode
     {
         public const string AccessDenied = "access_denied";
