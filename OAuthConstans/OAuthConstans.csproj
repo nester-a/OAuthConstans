@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Title>OAuth 2.0 Protocol Constans</Title>
+    <Authors>Aleksey_N</Authors>
+    <RepositoryUrl>https://github.com/nester-a/OAuthConstans</RepositoryUrl>
+    <PackageTags>oauth; constans; request; response; error</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
